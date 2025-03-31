@@ -1,1 +1,11 @@
-node_modules/
+# Node.js modules
+/node_modules/
+
+# SQLite Database
+aviation_accidents.db
+
+
+aviation-accident.csv
+
+# Environment variable files
+.env
